@@ -49,6 +49,7 @@ const MAX_RELEASES = 5;
  * jweiland: /usr/local/bin/php5-56STABLE-CLI or /usr/local/bin/php7-70STABLE-CLI
  * all-inkl: php (PHP Version of domain)
  * metanet: /opt/php70/bin/php
+ * strato: /bin/php
  */
 const PHP_REMOTE_BINARY = '';
 
